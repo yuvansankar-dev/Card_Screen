@@ -33,7 +33,7 @@ var freeUser = {
   type: "FREE",
   cost: 0,
   applicableFeatures: [
-    "Single Users",
+    "Single User",
     "50GB Storage",
     "Unlimted Public Projects",
     "Community Access",
