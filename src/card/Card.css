@@ -1,0 +1,27 @@
+.feature {
+  margin-bottom: 10px;
+}
+.listPart {
+  list-style-type: none;
+  padding: 0px;
+  text-align: left;
+}
+.type-title {
+  color: #898b8d;
+}
+.button {
+  width: 100%;
+  border-radius: 20px;
+  background-color: #4599e1;
+  border-color: #4599e1;
+}
+.icon {
+  margin-right: 10px;
+}
+.borderContainer {
+  border-radius: 16px;
+  width: 18rem;
+}
+.disableText {
+  color: #c1c4d9;
+}

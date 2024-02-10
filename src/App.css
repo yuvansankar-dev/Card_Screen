@@ -1,0 +1,11 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  height: 100%;
+  background-color: #0d6efd;
+  flex-wrap: wrap;
+  padding: 20px;
+  min-height: 100vh;
+}
