@@ -18,7 +18,7 @@ var plusUser = {
   type: "PLUS",
   cost: 9,
   applicableFeatures: [
-    "Unlimited Users",
+    "5 Users",
     "50GB Storage",
     "Unlimted Public Projects",
     "Community Access",
@@ -33,7 +33,7 @@ var freeUser = {
   type: "FREE",
   cost: 0,
   applicableFeatures: [
-    "Unlimited Users",
+    "Single Users",
     "50GB Storage",
     "Unlimted Public Projects",
     "Community Access",
